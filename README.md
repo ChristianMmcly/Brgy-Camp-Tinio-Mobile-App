@@ -1,5 +1,5 @@
-
 SPLASH ACTIVITY
+
 ![image](https://github.com/ChristianMmcly/Brgy-Camp-Tinio-Mobile-App/assets/117743442/77186314-7e8b-4389-a060-6844e47ed0f4)
 
 
