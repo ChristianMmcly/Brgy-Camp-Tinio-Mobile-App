@@ -1,4 +1,4 @@
-HOW TO USE RESIDENTS MOBILE APPS
+
 SPLASH ACTIVITY
 ![image](https://github.com/ChristianMmcly/Brgy-Camp-Tinio-Mobile-App/assets/117743442/77186314-7e8b-4389-a060-6844e47ed0f4)
 
@@ -198,9 +198,9 @@ THIS IS THE TERM AND CONDITION OF THE MOBILE APPLICATION
 
 
 
-
 PASSWORD RESET
 TYPE YOUR EMAIL TO MAKE YOUR PASSWORD RESET AND CLICK RESET
  
+![image](https://github.com/ChristianMmcly/Brgy-Camp-Tinio-Mobile-App/assets/117743442/7f9d5242-1d42-4534-8d36-39cd103c1fd2)
 
 
